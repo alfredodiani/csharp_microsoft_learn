@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\bin\Debug\net7.0\12_conversao_de_tipos.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\bin\Debug\net7.0\12_conversao_de_tipos.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\bin\Debug\net7.0\12_conversao_de_tipos.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\bin\Debug\net7.0\12_conversao_de_tipos.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\bin\Debug\net7.0\12_conversao_de_tipos.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\refint\12_conversao_de_tipos.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\12_conversao_de_tipos.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\12_conversao_de_tipos\obj\Debug\net7.0\ref\12_conversao_de_tipos.dll
