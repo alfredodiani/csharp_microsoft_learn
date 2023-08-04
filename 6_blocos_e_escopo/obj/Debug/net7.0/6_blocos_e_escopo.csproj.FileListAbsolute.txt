@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\bin\Debug\net7.0\6_blocos_e_escopo.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\bin\Debug\net7.0\6_blocos_e_escopo.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\bin\Debug\net7.0\6_blocos_e_escopo.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\bin\Debug\net7.0\6_blocos_e_escopo.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\bin\Debug\net7.0\6_blocos_e_escopo.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\refint\6_blocos_e_escopo.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\6_blocos_e_escopo.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\6_blocos_e_escopo\obj\Debug\net7.0\ref\6_blocos_e_escopo.dll

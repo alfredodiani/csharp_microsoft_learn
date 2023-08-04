@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\bin\Debug\net7.0\3_matrizes_e_foreach_desafio.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\bin\Debug\net7.0\3_matrizes_e_foreach_desafio.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\bin\Debug\net7.0\3_matrizes_e_foreach_desafio.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\bin\Debug\net7.0\3_matrizes_e_foreach_desafio.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\bin\Debug\net7.0\3_matrizes_e_foreach_desafio.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\refint\3_matrizes_e_foreach_desafio.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\3_matrizes_e_foreach_desafio.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\3_matrizes_e_foreach_desafio\obj\Debug\net7.0\ref\3_matrizes_e_foreach_desafio.dll

@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\bin\Debug\net7.0\9_while_desafio_batalha_rpg.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\bin\Debug\net7.0\9_while_desafio_batalha_rpg.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\bin\Debug\net7.0\9_while_desafio_batalha_rpg.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\bin\Debug\net7.0\9_while_desafio_batalha_rpg.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\bin\Debug\net7.0\9_while_desafio_batalha_rpg.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\refint\9_while_desafio_batalha_rpg.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\9_while_desafio_batalha_rpg.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_batalha_rpg\obj\Debug\net7.0\ref\9_while_desafio_batalha_rpg.dll

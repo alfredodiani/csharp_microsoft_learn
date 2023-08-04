@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\bin\Debug\net7.0\Starter.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\bin\Debug\net7.0\Starter.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\bin\Debug\net7.0\Starter.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\bin\Debug\net7.0\Starter.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\10_guided_project_contoso_pets\obj\Debug\net7.0\ref\Starter.dll

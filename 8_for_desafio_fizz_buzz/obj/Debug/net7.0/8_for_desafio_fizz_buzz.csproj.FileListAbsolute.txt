@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\bin\Debug\net7.0\8_for_desafio_fizz_buzz.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\bin\Debug\net7.0\8_for_desafio_fizz_buzz.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\bin\Debug\net7.0\8_for_desafio_fizz_buzz.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\bin\Debug\net7.0\8_for_desafio_fizz_buzz.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\bin\Debug\net7.0\8_for_desafio_fizz_buzz.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\refint\8_for_desafio_fizz_buzz.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\8_for_desafio_fizz_buzz.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\8_for_desafio_fizz_buzz\obj\Debug\net7.0\ref\8_for_desafio_fizz_buzz.dll

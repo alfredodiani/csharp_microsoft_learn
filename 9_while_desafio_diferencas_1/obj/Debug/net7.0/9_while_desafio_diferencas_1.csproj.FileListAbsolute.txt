@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\bin\Debug\net7.0\9_while_desafio_diferencas_1.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\bin\Debug\net7.0\9_while_desafio_diferencas_1.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\bin\Debug\net7.0\9_while_desafio_diferencas_1.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\bin\Debug\net7.0\9_while_desafio_diferencas_1.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\bin\Debug\net7.0\9_while_desafio_diferencas_1.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\refint\9_while_desafio_diferencas_1.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\9_while_desafio_diferencas_1.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\9_while_desafio_diferencas_1\obj\Debug\net7.0\ref\9_while_desafio_diferencas_1.dll
