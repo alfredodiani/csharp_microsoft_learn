@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj",
         "projectName": "13_arrays_metodos_auxiliares",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\13_arrays_metodos_auxiliares.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\13_arrays_metodos_auxiliares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

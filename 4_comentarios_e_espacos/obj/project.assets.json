@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\4_comentarios_e_espacos.csproj",
+      "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\4_comentarios_e_espacos.csproj",
       "projectName": "4_comentarios_e_espacos",
-      "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\4_comentarios_e_espacos.csproj",
+      "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\4_comentarios_e_espacos.csproj",
       "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\obj\\",
+      "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\4_comentarios_e_espacos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

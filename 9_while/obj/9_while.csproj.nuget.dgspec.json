@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj",
         "projectName": "9_while",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\9_while.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

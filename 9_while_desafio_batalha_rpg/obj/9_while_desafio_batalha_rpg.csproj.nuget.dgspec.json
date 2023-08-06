@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj",
         "projectName": "9_while_desafio_batalha_rpg",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\9_while_desafio_batalha_rpg.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\9_while_desafio_batalha_rpg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

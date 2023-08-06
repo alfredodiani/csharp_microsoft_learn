@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj",
         "projectName": "8_for",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\8_for.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

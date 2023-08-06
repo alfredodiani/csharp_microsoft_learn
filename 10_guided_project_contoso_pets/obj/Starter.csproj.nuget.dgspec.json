@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\Starter.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\10_guided_project_contoso_pets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

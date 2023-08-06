@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj",
         "projectName": "3_matrizes_e_foreach_desafio",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\3_matrizes_e_foreach_desafio.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\3_matrizes_e_foreach_desafio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

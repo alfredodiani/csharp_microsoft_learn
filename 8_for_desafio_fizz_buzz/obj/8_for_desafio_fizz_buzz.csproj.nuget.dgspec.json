@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj",
         "projectName": "8_for_desafio_fizz_buzz",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\8_for_desafio_fizz_buzz.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\8_for_desafio_fizz_buzz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

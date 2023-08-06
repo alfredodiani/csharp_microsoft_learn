@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj",
         "projectName": "6_blocos_e_escopo",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\6_blocos_e_escopo.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\6_blocos_e_escopo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

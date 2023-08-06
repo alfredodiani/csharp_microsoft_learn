@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj",
         "projectName": "12_conversao_de_tipos",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\12_conversao_de_tipos.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\12_conversao_de_tipos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

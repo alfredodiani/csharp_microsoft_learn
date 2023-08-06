@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj": {}
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj": {
+    "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj",
+        "projectUniqueName": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj",
         "projectName": "5_expressoes_boolianas",
-        "projectPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj",
+        "projectPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\5_expressoes_boolianas.csproj",
         "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\obj\\",
+        "outputPath": "c:\\Users\\alfre\\source\\cs\\MicrosoftLearn\\5_expressoes_boolianas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

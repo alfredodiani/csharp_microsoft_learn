@@ -32,3 +32,4 @@ int numero2 = 16;
 int largerValue = System.Math.Max(numero1, numero2);
 
 Console.WriteLine($"Maior valor entre {numero1} e {numero2}: {largerValue}");
+
