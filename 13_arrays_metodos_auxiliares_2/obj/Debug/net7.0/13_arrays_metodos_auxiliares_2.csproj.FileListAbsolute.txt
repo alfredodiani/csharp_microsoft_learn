@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\bin\Debug\net7.0\13_arrays_metodos_auxiliares_2.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\bin\Debug\net7.0\13_arrays_metodos_auxiliares_2.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\bin\Debug\net7.0\13_arrays_metodos_auxiliares_2.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\bin\Debug\net7.0\13_arrays_metodos_auxiliares_2.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\bin\Debug\net7.0\13_arrays_metodos_auxiliares_2.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\refint\13_arrays_metodos_auxiliares_2.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\13_arrays_metodos_auxiliares_2.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\13_arrays_metodos_auxiliares_2\obj\Debug\net7.0\ref\13_arrays_metodos_auxiliares_2.dll
