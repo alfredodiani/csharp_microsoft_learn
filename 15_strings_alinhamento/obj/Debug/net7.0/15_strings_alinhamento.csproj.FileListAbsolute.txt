@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\bin\Debug\net7.0\15_strings_alinhamento.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\bin\Debug\net7.0\15_strings_alinhamento.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\bin\Debug\net7.0\15_strings_alinhamento.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\bin\Debug\net7.0\15_strings_alinhamento.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\bin\Debug\net7.0\15_strings_alinhamento.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\refint\15_strings_alinhamento.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\15_strings_alinhamento.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\15_strings_alinhamento\obj\Debug\net7.0\ref\15_strings_alinhamento.dll
