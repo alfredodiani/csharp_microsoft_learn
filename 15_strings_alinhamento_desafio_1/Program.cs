@@ -36,7 +36,7 @@ decimal newReturn = 0.13125m;
 decimal newProfit = 63000000.0m;
 
 string initialMessage = "";
-initialMessage += $"Dear {customerName}\n";
+initialMessage += $"Dear {customerName},\n";
 initialMessage += $"As a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.\n";
 initialMessage += $"Currently, you own {currentShares:N} at a return of {currentReturn:P}\n";
 initialMessage += $"Our new product {newProduct} offers a return of {newReturn:P}. Given your current volume, your potential profit would be {newProfit:C}\n";
