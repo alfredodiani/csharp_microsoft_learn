@@ -1,0 +1,15 @@
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\bin\Debug\net7.0\18_strings_remove_replace.exe
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\bin\Debug\net7.0\18_strings_remove_replace.deps.json
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\bin\Debug\net7.0\18_strings_remove_replace.runtimeconfig.json
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\bin\Debug\net7.0\18_strings_remove_replace.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\bin\Debug\net7.0\18_strings_remove_replace.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.csproj.AssemblyReference.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.AssemblyInfoInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.AssemblyInfo.cs
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\refint\18_strings_remove_replace.dll
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.pdb
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\18_strings_remove_replace.genruntimeconfig.cache
+C:\Users\alfre\source\cs\MicrosoftLearn\18_strings_remove_replace\obj\Debug\net7.0\ref\18_strings_remove_replace.dll
