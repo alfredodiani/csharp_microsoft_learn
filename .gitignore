@@ -3,3 +3,5 @@
 
 #.net folders
 **/bin/
+**/obj/
+
