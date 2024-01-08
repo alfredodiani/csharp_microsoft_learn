@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_methods_with_return_5", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_methods_with_return_challenge", "36_methods_with_return_challenge\36_methods_with_return_challenge.csproj", "{EB483026-A2F2-42C9-8827-D72B166C196F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_guided_project_visiting_petting_zoo", "37_guided_project_visiting_petting_zoo\37_guided_project_visiting_petting_zoo.csproj", "{471F3505-01F4-45FF-8D4C-4CB3130440DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -317,6 +319,10 @@ Global
 		{EB483026-A2F2-42C9-8827-D72B166C196F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB483026-A2F2-42C9-8827-D72B166C196F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB483026-A2F2-42C9-8827-D72B166C196F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471F3505-01F4-45FF-8D4C-4CB3130440DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471F3505-01F4-45FF-8D4C-4CB3130440DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471F3505-01F4-45FF-8D4C-4CB3130440DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471F3505-01F4-45FF-8D4C-4CB3130440DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
